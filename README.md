@@ -1,7 +1,7 @@
 ## Olá bem-vindo(a) 
 
 - 🔭 Hoje trabalho como programador
-- 🌱 Estudando Java
+- 🌱 Estudando React
 - 📫 Contato: Jonathanp.carvalhorj@gmail.com
 <div style="display:flex; justify-content:space-between;">
   <a href="https://github.com/JonathanM3Back">
