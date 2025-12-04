@@ -1,4 +1,4 @@
-## Trabalho de aprendizado supervisionado
+## Trabalho de aprendizado de maquina - supervisionado
 
 ### Dataset
 - Dataset titanic 
